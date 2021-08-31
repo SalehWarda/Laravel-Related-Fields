@@ -1,8 +1,5 @@
-<p align="center"><img src="http://mindscms.com/images/mindscms-logo.png" width="100"></p>
-<h1 align="center">Minds CMS</h1>
 
 ## Related Fields in Laravel
-#### Youtube Course
 
 Learn how to make related fields in laravel.
 
